@@ -1,4 +1,5 @@
-# ⭐ Sau đây là các bước cơ bản để có thể cài đặt và vận hành SpermBot.
+#SpermBot
+ ⭐ Sau đây là các bước cơ bản để có thể cài đặt và vận hành SpermBot.
 
 ⭐Yêu cầu
 
